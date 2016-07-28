@@ -1,2 +1,6 @@
 # moviclean
-Sistema de gestion de ingreso de vehiculos, obtencion de datos de clientes y generador de estadisticas.
+Sistema diseñado para la empresa de car detailing Moviclean S.A con el fin de:
+  -Obtener datos de los clientes.
+  -Realizar analisis estadisticos acerca de la clientela.
+  -Gestionar y coordinar el ingreso de los vehiculos.
+  -Generar base de datos de clientes, vehiculos, servicios realizados y tiempo requerido por servicio.
