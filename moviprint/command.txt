@@ -1,0 +1,4 @@
+TO FORMAT THE BOARD:
+
+esptool.py --port /dev/ttyUSB0 erase_flash
+esptool.py --port /dev/ttyUSB0 write_flash -fm dio -fs 32M 0x00000 firmware.bin 0x3fc000 esp_init_data_default.bin
